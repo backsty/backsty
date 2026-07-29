@@ -256,22 +256,27 @@ SPA-хранилище с ролевой моделью, вложенными п
 
 ## 📊 Статистика
 
+<!--
+  Надёжность важнее количества. Оставлены только устойчивые карточки.
+  Snake-график генерируется твоим же GitHub Actions (файл ниже) и не зависит
+  от сторонних серверов — поэтому не отваливается никогда.
+-->
+
+<!-- Snake: собственная анимация, живёт в твоём репозитории -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=backsty&show_icons=true&hide_border=true&title_color=0b5fa5&icon_color=0b5fa5&text_color=768390&bg_color=0d1117&count_private=true&include_all_commits=true&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=backsty&layout=compact&hide_border=true&title_color=0b5fa5&text_color=768390&bg_color=0d1117&langs_count=10&cache_seconds=1800" />
+  <img src="https://raw.githubusercontent.com/backsty/backsty/output/github-contribution-grid-snake-dark.svg" width="98%" alt="snake animation" />
 </p>
 
-<!-- Годовой heatmap контрибуций — «настоящая» статистика: 761 вклад распределён по году -->
+<!-- Streak — единственная карточка, что у тебя стабильно работает -->
 <p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=backsty&theme=github" width="60%" />
+  <img src="https://streak-stats.demolab.com/?user=backsty&hide_border=true&background=0d1117&ring=0b5fa5&fire=0b5fa5&currStreakLabel=0b5fa5&sideNums=768390&sideLabels=768390&dates=768390&stroke=0b5fa5&currStreakNum=c9d1d9" alt="streak" />
 </p>
 
+<!-- Stats + языки: даём второй шанс, но на менее нагруженном зеркале.
+     Если снова упадут — просто удали этот блок, snake + streak самодостаточны. -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=backsty&hide_border=true&background=0d1117&ring=0b5fa5&fire=0b5fa5&currStreakLabel=0b5fa5&sideNums=768390&sideLabels=768390&dates=768390&stroke=0b5fa5&currStreakNum=c9d1d9" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=backsty&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=backsty&show_icons=true&hide_border=true&title_color=0b5fa5&icon_color=0b5fa5&text_color=768390&bg_color=0d1117&count_private=true&include_all_commits=true&cache_seconds=7200" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=backsty&layout=compact&hide_border=true&title_color=0b5fa5&text_color=768390&bg_color=0d1117&langs_count=8&cache_seconds=7200" alt="top langs" />
 </p>
 
 ---
