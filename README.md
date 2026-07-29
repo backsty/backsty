@@ -43,140 +43,58 @@ Full-stack разработчик из Новосибирска. Пишу бэк
 ## 🛠️ Технический стек
 
 #### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,redux&theme=dark" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/TanStack_Query_/_Router_/_Table-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Reatom_v1001-0b5fa5?style=flat-square" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS_Modules-000?style=flat-square&logo=cssmodules&logoColor=white" />
-  <img src="https://img.shields.io/badge/shadcn/ui-000?style=flat-square&logo=shadcnui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white" />
-</p>
+<table>
+  <tr><td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><br><sub><b>React 19</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /><br><sub><b>TypeScript</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><br><sub><b>JavaScript</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" /><br><sub><b>Vite</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.simpleicons.org/reactquery/FF4154" /><br><sub><b>TanStack</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /><br><sub><b>Redux Toolkit</b></sub></td></tr>
+  <tr><td align="center" width="90"><img height="40" src="https://img.shields.io/badge/Re-0B5FA5?style=for-the-badge" /><br><sub><b>Reatom</b></sub></td><td align="center" width="90"><img height="40" src="https://img.shields.io/badge/Zu-443E38?style=for-the-badge" /><br><sub><b>Zustand</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.simpleicons.org/framer/0055FF" /><br><sub><b>Framer Motion</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" /><br><sub><b>Tailwind CSS</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><br><sub><b>CSS Modules</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.simpleicons.org/shadcnui/FFFFFF" /><br><sub><b>shadcn/ui</b></sub></td></tr>
+  <tr><td align="center" width="90"><img height="40" src="https://cdn.simpleicons.org/radixui/FFFFFF" /><br><sub><b>Radix UI</b></sub></td></tr>
+</table>
 
 #### Python / Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django&theme=dark" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Python_3.14-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLAlchemy_2.0_async-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pydantic_v2-E92063?style=flat-square&logo=pydantic&logoColor=white" />
-  <img src="https://img.shields.io/badge/asyncio-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Celery_+_Beat-37814A?style=flat-square&logo=celery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
-  <img src="https://img.shields.io/badge/httpx-0b5fa5?style=flat-square" />
-  <img src="https://img.shields.io/badge/Uvicorn_/_Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=black" />
-  <img src="https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=uv&logoColor=white" />
-</p>
+<table>
+  <tr><td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><br><sub><b>Python 3.14</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" /><br><sub><b>FastAPI</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /><br><sub><b>Django</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" /><br><sub><b>SQLAlchemy</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.simpleicons.org/pydantic/E92063" /><br><sub><b>Pydantic v2</b></sub></td><td align="center" width="90"><img height="40" src="https://img.shields.io/badge/aio-3776AB?style=for-the-badge" /><br><sub><b>asyncio</b></sub></td></tr>
+  <tr><td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/celery/celery-original.svg" /><br><sub><b>Celery</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" /><br><sub><b>Pytest</b></sub></td><td align="center" width="90"><img height="40" src="https://img.shields.io/badge/hx-0B5FA5?style=for-the-badge" /><br><sub><b>httpx</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gunicorn/gunicorn-plain.svg" /><br><sub><b>Uvicorn</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.simpleicons.org/ruff/D7FF64" /><br><sub><b>Ruff</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.simpleicons.org/uv/DE5FE9" /><br><sub><b>uv</b></sub></td></tr>
+</table>
 
 #### Базы данных
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,sqlite,mongodb&theme=dark" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Valkey-2A6DB0?style=flat-square" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Alembic-6BA81E?style=flat-square" />
-  <img src="https://img.shields.io/badge/asyncpg-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
+<table>
+  <tr><td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" /><br><sub><b>SQL</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /><br><sub><b>PostgreSQL</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" /><br><sub><b>Redis</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.simpleicons.org/valkey/2A6DB0" /><br><sub><b>Valkey</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /><br><sub><b>SQLite</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /><br><sub><b>MongoDB</b></sub></td></tr>
+  <tr><td align="center" width="90"><img height="40" src="https://img.shields.io/badge/Al-6BA81E?style=for-the-badge" /><br><sub><b>Alembic</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /><br><sub><b>asyncpg</b></sub></td></tr>
+</table>
 
-#### Auth &amp; Security
-<p>
-  <img src="https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenID_Connect-F78C40?style=flat-square&logo=openid&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zitadel_(IdP_/_PKCE_/_JWKS)-0b5fa5?style=flat-square" />
-</p>
+#### Auth & Security
+<table>
+  <tr><td align="center" width="90"><img height="40" src="https://cdn.simpleicons.org/auth0/EB5424" /><br><sub><b>OAuth 2.0</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.simpleicons.org/openid/F78C40" /><br><sub><b>OpenID</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.simpleicons.org/jsonwebtokens/FFFFFF" /><br><sub><b>JWT</b></sub></td><td align="center" width="90"><img height="40" src="https://img.shields.io/badge/Zi-0B5FA5?style=for-the-badge" /><br><sub><b>Zitadel</b></sub></td></tr>
+</table>
 
 #### Интеграции и API
-<p>
-  <img src="https://img.shields.io/badge/REST_API-0b5fa5?style=flat-square" />
-  <img src="https://img.shields.io/badge/OpenAPI_/_Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSocket_/_SSE-2a7ab0?style=flat-square&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Webhooks-16293c?style=flat-square" />
-  <img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
-</p>
+<table>
+  <tr><td align="center" width="90"><img height="40" src="https://img.shields.io/badge/{}-0B5FA5?style=for-the-badge" /><br><sub><b>REST API</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" /><br><sub><b>Swagger</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" /><br><sub><b>GraphQL</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.simpleicons.org/socketdotio/FFFFFF" /><br><sub><b>WebSocket</b></sub></td><td align="center" width="90"><img height="40" src="https://img.shields.io/badge/wh-16A34A?style=for-the-badge" /><br><sub><b>Webhooks</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.simpleicons.org/telegram/26A5E4" /><br><sub><b>Telegram Bot</b></sub></td></tr>
+</table>
 
 #### DevOps / Инфраструктура
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,gitlab,nginx,linux,bash&theme=dark" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/pre--commit-FAB040?style=flat-square&logo=precommit&logoColor=black" />
-</p>
+<table>
+  <tr><td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /><br><sub><b>Docker</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /><br><sub><b>Docker Compose</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" /><br><sub><b>Kubernetes</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.simpleicons.org/traefikproxy/24A1C1" /><br><sub><b>Traefik</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" /><br><sub><b>GitHub Actions</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" /><br><sub><b>GitLab CI/CD</b></sub></td></tr>
+  <tr><td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" /><br><sub><b>Nginx</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /><br><sub><b>Linux</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /><br><sub><b>Bash</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.simpleicons.org/precommit/FAB040" /><br><sub><b>pre-commit</b></sub></td></tr>
+</table>
 
 #### Мониторинг · Очереди · Data / AI
-<p>
-  <img src="https://skillicons.dev/icons?i=grafana,prometheus,kafka&theme=dark" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana_Loki-F46800?style=flat-square&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostHog-1D4AFF?style=flat-square&logo=posthog&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM_(Claude_/_OpenAI)-0b5fa5?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-</p>
+<table>
+  <tr><td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" /><br><sub><b>Grafana</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" /><br><sub><b>Prometheus</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" /><br><sub><b>Loki</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sentry/sentry-original.svg" /><br><sub><b>Sentry</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.simpleicons.org/opentelemetry/FFFFFF" /><br><sub><b>OpenTelemetry</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.simpleicons.org/posthog/1D4AFF" /><br><sub><b>PostHog</b></sub></td></tr>
+  <tr><td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" /><br><sub><b>Kafka</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" /><br><sub><b>RabbitMQ</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /><br><sub><b>Pandas</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /><br><sub><b>NumPy</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.simpleicons.org/openai/FFFFFF" /><br><sub><b>LLM API</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.simpleicons.org/n8n/EA4B71" /><br><sub><b>n8n</b></sub></td></tr>
+</table>
 
 #### Java · C / C++
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,gradle,c,cpp&theme=dark" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaFX-1A5C99?style=flat-square" />
-  <img src="https://img.shields.io/badge/OkHttp-3E4348?style=flat-square" />
-  <img src="https://img.shields.io/badge/Gradle_Multi--Module-02303A?style=flat-square&logo=gradle&logoColor=white" />
-  <img src="https://img.shields.io/badge/C_/_C++_(ООП,_STL)-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-</p>
+<table>
+  <tr><td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /><br><sub><b>Java</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /><br><sub><b>Spring Boot</b></sub></td><td align="center" width="90"><img height="40" src="https://img.shields.io/badge/FX-1A5C99?style=for-the-badge" /><br><sub><b>JavaFX</b></sub></td><td align="center" width="90"><img height="40" src="https://img.shields.io/badge/Ok-3E4348?style=for-the-badge" /><br><sub><b>OkHttp</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" /><br><sub><b>Gradle</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /><br><sub><b>C</b></sub></td></tr>
+  <tr><td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /><br><sub><b>C++</b></sub></td></tr>
+</table>
 
-#### Инструменты · Архитектура
-<p>
-  <img src="https://skillicons.dev/icons?i=git,postman&theme=dark" />
-  <img src="https://img.shields.io/badge/Bruno-F4AA41?style=flat-square&logo=bruno&logoColor=black" />
-  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/FSD_(Feature--Sliced_Design)-2a7ab0?style=flat-square" />
-  <img src="https://img.shields.io/badge/SOLID_·_DRY_·_KISS-16293c?style=flat-square" />
-  <img src="https://img.shields.io/badge/Паттерны_GoF-16293c?style=flat-square" />
-  <img src="https://img.shields.io/badge/Клиент--серверная_архитектура-16293c?style=flat-square" />
-  <img src="https://img.shields.io/badge/Сервисная_декомпозиция-16293c?style=flat-square" />
-</p>
+#### Инструменты
+<table>
+  <tr><td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><br><sub><b>Git</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" /><br><sub><b>Postman</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.simpleicons.org/bruno/F4AA41" /><br><sub><b>Bruno</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.simpleicons.org/obsidian/7C3AED" /><br><sub><b>Obsidian</b></sub></td><td align="center" width="90"><img height="40" src="https://cdn.simpleicons.org/notion/FFFFFF" /><br><sub><b>Notion</b></sub></td></tr>
+</table>
+
+<p><b>Архитектура и практики:</b> FSD (Feature-Sliced Design) · SOLID · DRY · KISS · паттерны GoF · клиент-серверная архитектура · сервисная декомпозиция</p>
 
 ---
 
@@ -270,13 +188,6 @@ SPA-хранилище с ролевой моделью, вложенными п
 <!-- Streak — единственная карточка, что у тебя стабильно работает -->
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=backsty&hide_border=true&background=0d1117&ring=0b5fa5&fire=0b5fa5&currStreakLabel=0b5fa5&sideNums=768390&sideLabels=768390&dates=768390&stroke=0b5fa5&currStreakNum=c9d1d9" alt="streak" />
-</p>
-
-<!-- Stats + языки: даём второй шанс, но на менее нагруженном зеркале.
-     Если снова упадут — просто удали этот блок, snake + streak самодостаточны. -->
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=backsty&show_icons=true&hide_border=true&title_color=0b5fa5&icon_color=0b5fa5&text_color=768390&bg_color=0d1117&count_private=true&include_all_commits=true&cache_seconds=7200" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=backsty&layout=compact&hide_border=true&title_color=0b5fa5&text_color=768390&bg_color=0d1117&langs_count=8&cache_seconds=7200" alt="top langs" />
 </p>
 
 ---
