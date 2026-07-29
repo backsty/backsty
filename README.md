@@ -1,21 +1,24 @@
 <!--
-  Профиль GitHub — backsty  (v2)
+  Профиль GitHub — backsty  (v3)
   Установка: публичный репозиторий с именем backsty → положить как README.md.
-  Статистика (stats / top-langs / trophy) тянется с внешних сервисов и появляется только
-  на github.com после публикации; в редакторах и превью она часто не грузится — это норма.
+
+  ⚠️ ПРО АНИМАЦИИ И СТАТИСТИКУ:
+  Всё живое (печатающийся текст, волны, статистика, heatmap) — это внешние SVG-сервисы.
+  Они анимируются и грузятся ТОЛЬКО на github.com после публикации.
+  В любом редакторе/превью (включая тот, где ты смотришь сейчас) часть картинок будет
+  битой, а анимации — статичными. Это нормально. Проверяй на живой странице профиля.
 -->
 
-<!-- ВЕРХНЯЯ ВОЛНА + ИМЯ -->
+<!-- ВЕРХНЯЯ ВОЛНА + ИМЯ  (анимация: fadeIn) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b5fa5,50:2a7ab0,100:16293c&height=210&section=header&text=Artem%20Shalamov&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer&descSize=20&descAlignY=58" width="100%" />
 </p>
 
-<!-- ПЕЧАТАЮЩИЙСЯ ТЕКСТ: бэкенд + фронтенд + full-cycle -->
+<!-- ПЕЧАТАЮЩИЙСЯ ТЕКСТ (анимация: печать+стирание) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=0B5FA5&center=true&vCenter=true&width=680&lines=Backend%3A+Python+%2B+FastAPI+%2B+PostgreSQL;Frontend%3A+React+19+%2B+TypeScript;%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D1%83%D1%8E+%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D1%83+%D1%81+%D0%BD%D1%83%D0%BB%D1%8F;%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0+%D0%BF%D0%BE+%D0%BF%D0%BE%D0%BB%D0%BD%D0%BE%D0%BC%D1%83+%D1%86%D0%B8%D0%BA%D0%BB%D1%83%3A+%D0%BE%D1%82+%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9+%D0%B4%D0%BE+%D0%BF%D1%80%D0%BE%D0%B4%D0%B0" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=0B5FA5&center=true&vCenter=true&width=700&lines=Backend%3A+Python+%2B+FastAPI+%2B+PostgreSQL;Frontend%3A+React+19+%2B+TypeScript;%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D1%83%D1%8E+%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D1%83+%D1%81+%D0%BD%D1%83%D0%BB%D1%8F;%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0+%D0%BF%D0%BE+%D0%BF%D0%BE%D0%BB%D0%BD%D0%BE%D0%BC%D1%83+%D1%86%D0%B8%D0%BA%D0%BB%D1%83%3A+%D0%BE%D1%82+%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9+%D0%B4%D0%BE+%D0%BF%D1%80%D0%BE%D0%B4%D0%B0" alt="typing" />
 </p>
 
-<!-- БЕЙДЖИ-ССЫЛКИ -->
 <p align="center">
   <a href="mailto:shalamovartem6@mail.ru"><img src="https://img.shields.io/badge/Email-shalamovartem6@mail.ru-0b5fa5?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
   <a href="https://t.me/backsty05"><img src="https://img.shields.io/badge/Telegram-@backsty05-2a7ab0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
@@ -26,19 +29,19 @@
 
 ### 👋 Обо мне
 
-Full-stack разработчик из Новосибирска. Бэкенд — **Python, FastAPI, SQLAlchemy, PostgreSQL**. Фронтенд — **React 19, TypeScript**.
+Full-stack разработчик из Новосибирска. Пишу бэкенд на **Python** (FastAPI, SQLAlchemy, PostgreSQL) и фронтенд на **TypeScript** и **React**. Учусь на 4 курсе НГТУ НЭТИ по направлению «Программная инженерия».
 
-- 🧩 Веду разработку по полному циклу: требования → архитектура → код → ревью → CI → прод → сопровождение
-- 🏗️ Запускаю проекты с нуля: модель данных, границы модулей, контракты между ними
-- 🔐 Аутентификация и безопасность: OAuth 2.0, OIDC, JWT, ролевые модели, разграничение доступа
-- 🎓 4 курс НГТУ НЭТИ, «Программная инженерия»
+- 🧩 **Веду разработку по полному циклу** — разбираю требования и предметную область, проектирую архитектуру и подбираю стек, пишу код, провожу ревью, собираю CI и выкатываю в прод, а дальше сопровождаю: логи, мониторинг, разбор инцидентов, развитие
+- 🏗️ **Запускаю проекты с нуля** — определяю модель данных, границы модулей и контракты между ними, закладываю структуру, которая переживёт рост. Несколько систем спроектировал и реализовал полностью в одиночку
+- 🔐 **Сильная зона — аутентификация и безопасность:** прошёл весь путь OAuth 2.0 / OIDC через Zitadel — PKCE-flow, JWT по JWKS, refresh-токены, ролевые модели, разграничение доступа, защита от типовых OWASP-рисков
+- ⚙️ **Внимателен к качеству кода** — строгая типизация, статический анализ, обратимые миграции, осмысленная обработка ошибок, наблюдаемость
+- 🧠 **Расширяю кругозор в инфраструктуре** — изучаю Kubernetes, Apache Kafka, Go
 - ✉️ shalamovartem6@mail.ru · ✈️ [@backsty05](https://t.me/backsty05)
 
 ---
 
 ## 🛠️ Технический стек
 
-<!-- FRONTEND -->
 #### Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,redux&theme=dark" />
@@ -59,7 +62,6 @@ Full-stack разработчик из Новосибирска. Бэкенд �
   <img src="https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white" />
 </p>
 
-<!-- BACKEND -->
 #### Python / Backend
 <p>
   <img src="https://skillicons.dev/icons?i=python,fastapi,django&theme=dark" />
@@ -79,7 +81,6 @@ Full-stack разработчик из Новосибирска. Бэкенд �
   <img src="https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=uv&logoColor=white" />
 </p>
 
-<!-- БД -->
 #### Базы данных
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,redis,sqlite,mongodb&theme=dark" />
@@ -95,7 +96,6 @@ Full-stack разработчик из Новосибирска. Бэкенд �
   <img src="https://img.shields.io/badge/asyncpg-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
-<!-- AUTH -->
 #### Auth &amp; Security
 <p>
   <img src="https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white" />
@@ -104,7 +104,6 @@ Full-stack разработчик из Новосибирска. Бэкенд �
   <img src="https://img.shields.io/badge/Zitadel_(IdP_/_PKCE_/_JWKS)-0b5fa5?style=flat-square" />
 </p>
 
-<!-- API -->
 #### Интеграции и API
 <p>
   <img src="https://img.shields.io/badge/REST_API-0b5fa5?style=flat-square" />
@@ -115,7 +114,6 @@ Full-stack разработчик из Новосибирска. Бэкенд �
   <img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
 </p>
 
-<!-- DEVOPS -->
 #### DevOps / Инфраструктура
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,gitlab,nginx,linux,bash&theme=dark" />
@@ -133,7 +131,6 @@ Full-stack разработчик из Новосибирска. Бэкенд �
   <img src="https://img.shields.io/badge/pre--commit-FAB040?style=flat-square&logo=precommit&logoColor=black" />
 </p>
 
-<!-- OBSERVABILITY + QUEUES + DATA -->
 #### Мониторинг · Очереди · Data / AI
 <p>
   <img src="https://skillicons.dev/icons?i=grafana,prometheus,kafka&theme=dark" />
@@ -153,7 +150,6 @@ Full-stack разработчик из Новосибирска. Бэкенд �
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
 </p>
 
-<!-- JAVA + C -->
 #### Java · C / C++
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,gradle,c,cpp&theme=dark" />
@@ -162,12 +158,11 @@ Full-stack разработчик из Новосибирска. Бэкенд �
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaFX-1A5C99?style=flat-square" />
-  <img src="https://img.shields.io/badge/OkHttp-3E4348?style=flat-square&logo=square&logoColor=white" />
+  <img src="https://img.shields.io/badge/OkHttp-3E4348?style=flat-square" />
   <img src="https://img.shields.io/badge/Gradle_Multi--Module-02303A?style=flat-square&logo=gradle&logoColor=white" />
   <img src="https://img.shields.io/badge/C_/_C++_(ООП,_STL)-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
 </p>
 
-<!-- ИНСТРУМЕНТЫ + АРХИТЕКТУРА -->
 #### Инструменты · Архитектура
 <p>
   <img src="https://skillicons.dev/icons?i=git,postman&theme=dark" />
@@ -183,10 +178,6 @@ Full-stack разработчик из Новосибирска. Бэкенд �
   <img src="https://img.shields.io/badge/Сервисная_декомпозиция-16293c?style=flat-square" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/⌛_Изучаю-Kubernetes_·_Kafka_·_Go-0b5fa5?style=flat-square" />
-</p>
-
 ---
 
 ## 🚀 Проекты
@@ -196,21 +187,33 @@ Full-stack разработчик из Новосибирска. Бэкенд �
 <td width="50%" valign="top">
 
 ### 📦 [My Cloud](https://github.com/backsty/my-cloud)
-Облачное файловое хранилище. **Единственный разработчик.**
+**Облачное файловое хранилище · единственный разработчик**
 
-Слоистая архитектура, 57 REST-операций на полностью асинхронном стеке, авторизация через Zitadel (OAuth 2.0 / OIDC / PKCE / JWT по JWKS), фронтенд на React + Reatom по Feature-Sliced Design.
+SPA-хранилище с ролевой моделью, вложенными папками, корзиной, избранным, превью и публичным доступом по обезличенным ссылкам. Прошёл все стадии сам: от требований и модели данных до фронтенда, CI и деплоя.
 
-`Python` `FastAPI` `SQLAlchemy 2.0` `PostgreSQL` `React 19` `TypeScript` `Zitadel` `Docker`
+- Слоистая архитектура `domain → application → infrastructure → api`, repository pattern
+- 57 REST-операций на полностью асинхронном стеке, документация OpenAPI, обратимые Alembic-миграции
+- Авторизация через Zitadel: OAuth 2.0 / OIDC, PKCE, JWT по JWKS, ролевая модель
+- Дерево папок без рекурсивных запросов, soft-delete с точным восстановлением, квоты
+- Фронтенд по Feature-Sliced Design на Reatom, виртуализация списков, drag & drop
+
+**Стек:** `Python 3.14` `FastAPI` `SQLAlchemy 2.0 async` `asyncpg` `PostgreSQL` `Alembic` `Pydantic v2` `React 19` `TypeScript` `Reatom` `Zitadel` `Docker`
 
 </td>
 <td width="50%" valign="top">
 
 ### 💬 [Chaos Organizer](https://github.com/backsty/Chaos-Organizer-diploma)
-Веб-мессенджер с ботом-органайзером.
+**Веб-мессенджер с ботом-органайзером**
 
-Реалтайм на WebSocket + SSE, офлайн-режим на Service Worker + IndexedDB, клиентское шифрование. Фронтенд без фреймворка — на чистом ES6.
+Мессенджер, где вместо собеседника бот: хранит переписку, файлы и заметки, отвечает на команды, ищет по истории. Фронтенд написан без фреймворка — на чистом ES6.
 
-`Node.js` `Koa` `WebSocket` `SSE` `JavaScript` `PWA`
+- Реалтайм на двух каналах: WebSocket для обмена сообщениями, SSE для уведомлений
+- Бэкенд на Koa: JWT-авторизация, загрузка вложений, валидация, защита от XSS
+- Офлайн-режим: кэш в IndexedDB, Service Worker, подгрузка истории порциями
+- Клиентское шифрование сообщений и вложений паролем
+- Медиа прямо в браузере: запись аудио/видео, геолокация, drag & drop
+
+**Стек:** `Node.js` `Koa` `WebSocket` `SSE` `JWT` `JavaScript ES6` `Vite` `IndexedDB` `Service Worker` `PWA` `crypto-js`
 
 </td>
 </tr>
@@ -218,21 +221,32 @@ Full-stack разработчик из Новосибирска. Бэкенд �
 <td width="50%" valign="top">
 
 ### 📡 [Pub/Sub мессенджер](https://github.com/backsty/messenger-lab4)
-Реалтайм без брокера сообщений.
+**Реалтайм-доставка сообщений без брокера**
 
-Long polling через `DeferredResult`, иерархическая маршрутизация топиков, потокобезопасное in-memory хранилище.
+Учебный проект НГТУ. Доставка в реальном времени без внешнего брокера и без WebSocket — на чистом long polling.
 
-`Java` `Spring Boot` `JavaFX` `Gradle`
+- Сервер удерживает HTTP-запрос через `DeferredResult` до появления сообщения или таймаута
+- Иерархическая маршрутизация: `sport.nba.gsw` веером расходится подписчикам `sport.nba` и `sport`
+- Потокобезопасное in-memory хранилище: очередь на каждого клиента, конкурентные коллекции
+- Монорепозиторий из трёх Gradle-модулей: shared DTO, server, JavaFX-клиент
+
+**Стек:** `Java` `Spring Boot` `Spring Web MVC` `JavaFX` `OkHttp` `Gradle Multi-Module`
 
 </td>
 <td width="50%" valign="top">
 
 ### 📚 [Библиотека с QR-кодами](https://github.com/backsty/nstu-sixth-semester-main)
-Полный цикл проектирования.
+**Система книговыдачи · полный цикл проектирования**
 
-Анализ предметной области → каталог требований → прототип → слоистая архитектура с элементами DDD. Шесть UML-диаграмм.
+Учебный проект НГТУ, проведённый от бизнес-анализа до работающего приложения.
 
-`Java` `JavaFX` `ZXing` `PlantUML`
+- Анализ предметной области: глоссарий, границы системы, бизнес-процессы
+- Модель требований: диаграмма прецедентов, каталог требований, прототип интерфейса
+- Слоистая архитектура с элементами DDD: домен без внешних зависимостей, 13 сущностей
+- QR-коды билетов и экземпляров книг, формуляр с историей, уведомления о просрочках
+- Документация — 6 UML-диаграмм в PlantUML
+
+**Стек:** `Java` `JavaFX` `ZXing` `SLF4J + Logback` `Gradle` `PlantUML`
 
 </td>
 </tr>
@@ -247,16 +261,17 @@ Long polling через `DeferredResult`, иерархическая маршр�
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=backsty&layout=compact&hide_border=true&title_color=0b5fa5&text_color=768390&bg_color=0d1117&langs_count=10&cache_seconds=1800" />
 </p>
 
+<!-- Годовой heatmap контрибуций — «настоящая» статистика: 761 вклад распределён по году -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=backsty&hide_border=true&background=0d1117&ring=0b5fa5&fire=0b5fa5&currStreakLabel=0b5fa5&sideNums=768390&sideLabels=768390&dates=768390&stroke=0b5fa5&currStreakNum=c9d1d9&dates=768390" />
+  <img src="https://github-contribution-stats.vercel.app/api/?username=backsty&theme=github" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=backsty&hide_border=true&background=0d1117&ring=0b5fa5&fire=0b5fa5&currStreakLabel=0b5fa5&sideNums=768390&sideLabels=768390&dates=768390&stroke=0b5fa5&currStreakNum=c9d1d9" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=backsty&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=backsty&bg_color=0d1117&color=0b5fa5&line=2a7ab0&point=ffffff&area=true&hide_border=true" width="98%" />
 </p>
 
 ---
